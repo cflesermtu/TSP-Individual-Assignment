@@ -1,5 +1,5 @@
 class MyTSPJavaClass{
-  int return2x(int x){    
-    return x*2;
+  int return3x(int x){    
+    return x*3;
   }
 }
